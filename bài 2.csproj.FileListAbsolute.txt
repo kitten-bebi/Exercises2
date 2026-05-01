@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ex1\bài 2\bin\Debug\net8.0\bài 2.exe
+C:\Users\ADMIN\source\repos\ex1\bài 2\bin\Debug\net8.0\bài 2.deps.json
+C:\Users\ADMIN\source\repos\ex1\bài 2\bin\Debug\net8.0\bài 2.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ex1\bài 2\bin\Debug\net8.0\bài 2.dll
+C:\Users\ADMIN\source\repos\ex1\bài 2\bin\Debug\net8.0\bài 2.pdb
+C:\Users\ADMIN\source\repos\ex1\bài 2\obj\Debug\net8.0\bài 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ex1\bài 2\obj\Debug\net8.0\bài 2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ex1\bài 2\obj\Debug\net8.0\bài 2.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ex1\bài 2\obj\Debug\net8.0\bài 2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ex1\bài 2\obj\Debug\net8.0\bài 2.dll
+C:\Users\ADMIN\source\repos\ex1\bài 2\obj\Debug\net8.0\refint\bài 2.dll
+C:\Users\ADMIN\source\repos\ex1\bài 2\obj\Debug\net8.0\bài 2.pdb
+C:\Users\ADMIN\source\repos\ex1\bài 2\obj\Debug\net8.0\bài 2.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\ex1\bài 2\obj\Debug\net8.0\ref\bài 2.dll
